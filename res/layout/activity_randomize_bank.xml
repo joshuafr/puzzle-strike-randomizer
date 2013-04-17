@@ -1,0 +1,172 @@
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <TableLayout
+        android:id="@+id/tableLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <TableRow
+            android:id="@+id/chip0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage0"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle0"
+                android:text="Row 0"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/chip1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage1"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle1"
+                android:text="Row 1"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/chip2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage2"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle2"
+                android:text="Row 2"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/chip3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage3"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle3"
+                android:text="Row 3"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/chip4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage4"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle4"
+                android:text="Row 4"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/chip5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage5"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle5"
+                android:text="Row 5"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/chip6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage6"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle6"
+                android:text="Row 6"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/chip7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage7"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle7"
+                android:text="Row 7"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/chip8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage8"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle8"
+                android:text="Row 8"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/chip9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/chipImage9"
+                android:src="@drawable/puzzlestrikelogo" />
+
+            <TextView
+                android:id="@+id/chipTitle9"
+                android:text="Row 9"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </TableRow>
+    </TableLayout>
+
+</ScrollView>
